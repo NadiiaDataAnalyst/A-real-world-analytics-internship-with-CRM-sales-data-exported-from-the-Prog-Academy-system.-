@@ -20,6 +20,10 @@ utm-campaign:
 - друге місце pmax_ai_ua близько 4% лідів
 Проблеми з даними. Близько 70% лідів без utm-міток - треба покращити відстеження трафіку. Більшість курсів показують 0 продаж.
 
+<img width="1223" height="875" alt="ggg" src="https://github.com/user-attachments/assets/901fcce0-f53d-4ab1-a324-02b86d9e69ad" />
+
+
+
 
 
 
